@@ -1,7 +1,7 @@
 Nouns not in PWN
-biker
+biker (added in 3.1)
 motocross
-jeep
+jeep (added in 3.1 with landrover)
 ATV (all terrain vehicle)
 t-ball
 seadoo
@@ -9,10 +9,11 @@ corndog
 bmx
 wheelie
 wetsuit
-kiddie
+kiddie (added in 3.1)
 jetski
 waterski
 footbag
+
 Canon (camera)
 
 Frisbee 03397947-n 
