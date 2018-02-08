@@ -1,7 +1,7 @@
 Nouns not in PWN
 biker (added in 3.1)
 motocross
-jeep  WRONG
+~~jeep~~  WRONG
 ATV (all terrain vehicle)
 t-ball
 seadoo
