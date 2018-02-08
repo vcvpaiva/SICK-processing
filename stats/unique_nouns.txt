@@ -11,7 +11,7 @@ ball	200
 grass	190
 guitar	173
 shirt	144
-front	142
+front	142 WRONG!!!
 bike	137
 group	123
 cat	121
@@ -31,7 +31,7 @@ bowl	76
 wall	74
 lady	74
 street	72
-someone	71
+someone	71 PRON
 toy	71
 potato	71
 soccer	70
@@ -43,7 +43,7 @@ dirt	64
 egg	63
 animal	63
 mouth	63
-singing	62
+singing	62  WRONG!!!
 motorcycle	62
 park	61
 baby	60
@@ -71,7 +71,7 @@ top	40
 face	40
 ocean	40
 crowd	40
-nobody	39
+nobody	39 PRON
 race	38
 track	38
 fish	37
@@ -87,25 +87,25 @@ carrot	34
 game	34
 dress	33
 side	33
-dancing	33
+dancing	33 WRONG!!!
 leaf	33
 stage	33
 wave	31
-something	31
+something	31 PRON
 bench	31
 city	30
 arm	30
 helmet	30
 pan	30
 background	30
-standing	29
+standing	29 WRONG!!!
 mountain	29
 room	28
 tomato	28
 bridge	28
 bread	27
 lake	27
-biker	26
+biker	26 MISSING
 pants	26
 vegetable	26
 butter	26
@@ -148,14 +148,14 @@ jersey	20
 bottle	20
 family	19
 eye	19
-parking	19
+parking	19 WRONG???
 mud	19
 nose	19
 trampoline	19
 kitten	18
 baseball	18
 pencil	18
-somebody	18
+somebody	18 PRON
 yard	18
 ceiling	18
 scooter	18
@@ -163,7 +163,7 @@ bikini	18
 wheel	18
 edge	18
 stone	18
-swimming	18
+swimming	18 WRONG!!!
 stick	18
 motocross	17
 milk	17
@@ -175,8 +175,8 @@ jump	17
 guy	17
 bed	17
 ramp	17
-fishing	17
-snowboarder	17
+fishing	17 WRONG!!!
+snowboarder	17 MISSING
 rhino	17
 pepper	17
 ear	17
@@ -184,7 +184,7 @@ ingredient	16
 trunk	16
 train	16
 toddler	16
-playing	16
+playing	16 WRONG!!!
 cheese	16
 jeans	16
 tiger	16
@@ -220,7 +220,7 @@ violin	14
 surfboard	14
 cheerleader	14
 skillet	14
-t-shirt	14
+t-shirt	14 (T-shirt?!)
 raft	13
 door	13
 court	13
@@ -229,13 +229,13 @@ snake	13
 day	13
 skateboard	13
 statue	13
-one	13
+one	13   WRONG??
 chef	13
 distance	13
 cow	13
 restaurant	13
 rain	13
-brushing	13
+brushing	13 WRONG!!
 bull	12
 sun	12
 trail	12
@@ -248,7 +248,7 @@ leash	12
 banana	12
 gym	12
 runner	12
-wheelie	12
+wheelie	12 MISSING
 art	12
 hay	12
 beer	12
@@ -307,13 +307,13 @@ glove	10
 brush	10
 frisbee	10
 team	9
-firing	9
+firing	9 WRONG!!!
 sweater	9
-rollerblader	9
+rollerblader	9 MISSING?
 pond	9
 shrimp	9
 pink	9
-boxing	9
+boxing	9 CHECK?
 classroom	9
 platform	9
 break	9
@@ -324,7 +324,7 @@ sheep	9
 friend	9
 juice	9
 device	9
-collar	9
+collar	9 (???)
 gold	9
 photo	9
 leather	9
@@ -333,10 +333,10 @@ email	9
 herd	9
 kitchen	9
 squirrel	9
-bmx	9
+bmx	9  (???)
 vest	9
 mouse	9
-climbing	9
+climbing	9 WRONG?
 noodle	9
 weapon	9
 pacing	9
@@ -344,7 +344,7 @@ camel	9
 money	9
 clown	9
 night	9
-skateboarder	9
+skateboarder	9 MISSING???
 octopus	9
 strip	9
 line	9
@@ -376,9 +376,9 @@ eyebrow	8
 lion	8
 drum	8
 officer	8
-grazing	8
+grazing	8 WRONG!!!
 fire	8
-biking	8
+biking	8  WRONG!!!
 drink	8
 foot	8
 crocodile	8
@@ -427,9 +427,9 @@ bank	6
 song	6
 fan	6
 tank	6
-drinking	6
+drinking	6 WRONG!!!
 video	6
-blue	6
+blue	6  WRONG?
 cardboard	6
 tire	6
 okra	6
@@ -457,11 +457,11 @@ concrete	6
 cucumber	6
 number	6
 ring	6
-typing	6
+typing	6 WRONG!!!
 cereal	6
 bee	6
 cricket	6
-corndog	6
+corndog	6 MISSING
 tambourine	6
 clove	6
 pipe	6
@@ -471,7 +471,7 @@ watermelon	6
 saddle	6
 terrain	6
 guinea	6
-teens	6
+teens	6  ????
 chili	6
 outfit	6
 sink	6
@@ -481,8 +481,8 @@ pedestrian	6
 telephone	6
 obstacle	6
 paw	6
-digging	6
-barefoot	6
+digging	6 WRONG???
+barefoot	6  WRONG?
 rail	6
 dock	6
 rest	6
@@ -500,7 +500,7 @@ step	6
 post	6
 mat	6
 carriage	6
-gnawing	6
+gnawing	6  WRONG!!!
 pig	6
 chap	6
 curb	6
@@ -515,23 +515,23 @@ end	5
 whisk	5
 ride	5
 work	5
-cooking	5
+cooking	5 WRONG!!
 unicycle	5
 dune	5
 base	5
 backyard	5
 counter	5
-bathing	5
+bathing	5 WRONG!!!
 stenograph	5
 cupcake	5
 barrier	5
 difficulty	5
-atv	5
-Asia	5
+atv	5  MISSING
+Asia	5  MISSING
 size	5
 silver	5
 steak	5
-fighting	5
+fighting	5 WRONG!
 construction	5
 painting	5
 show	5
@@ -542,7 +542,7 @@ stair	5
 hockey	5
 boulder	5
 handstand	5
-wetsuit	5
+wetsuit	5 MISSING
 outside	5
 cub	5
 hiker	5
@@ -555,10 +555,10 @@ laughing	5
 peel	5
 left	5
 chimp	5
-other	5
+other	5  ????
 branch	5
 dance	4
-hunting	4
+hunting	4 WRONG
 smile	4
 llama	4
 fireplace	4
@@ -573,7 +573,7 @@ panel	4
 purse	4
 amphitheater	4
 pony	4
-ping	4
+ping	4 WRONG!!!
 map	4
 package	4
 wagon	4
@@ -584,12 +584,12 @@ driver	4
 breed	4
 hut	4
 rifle	4
-pong	4
-speaking	4
+pong	4 WRONG!!!
+speaking	4 WRONG!!!
 play	4
 spectator	4
 object	4
-spanking	4
+spanking	4 WRONG!!!
 concert	4
 hammer	4
 subject	4
@@ -612,7 +612,7 @@ sofa	4
 pavement	4
 right	4
 palm	4
-go-kart	4
+go-kart	4 MISSING?
 bottom	4
 tube	4
 cord	4
@@ -628,7 +628,7 @@ droplet	4
 cabinet	4
 monument	4
 coverall	4
-shooting	4
+shooting	4 WRONG!!!
 sweatshirt	4
 lens	4
 veil	4
@@ -651,14 +651,14 @@ batter	3
 foreground	3
 fingernail	3
 mural	3
-eating	3
+eating	3 WRONG!!!
 pajamas	3
 ribbon	3
-mountainside	3
+mountainside	3 ????
 herb	3
 substance	3
 armband	3
-piercing	3
+piercing	3 WRONG??
 boa	3
 footballer	3
 cloak	3
@@ -736,11 +736,11 @@ tractor	3
 rag	3
 gathering	3
 grotto	3
-skateboarding	3
+skateboarding	3 WRONG!!!
 veteran	3
 henna	3
 note	3
-seating	3
+seating	3 WRONG!!
 interior	3
 paintbrush	3
 donation	3
@@ -750,13 +750,13 @@ patio	3
 policewoman	3
 shop	3
 walking	3
-kiddie	3
+kiddie	3 MISSING
 barbell	3
 bedroom	3
 earth	3
 crane	3
 music	3
-footbag	3
+footbag	3 MISSING
 state	3
 sugar	3
 tape	3
@@ -766,17 +766,17 @@ beak	3
 village	3
 bar	3
 artist	3
-paddling	3
-rowing	3
+paddling	3 WRONG!!
+rowing	3 WRONG??
 patch	3
 skyline	3
-Seadoo	3
-snowsuit	3
+Seadoo	3 MISSING
+snowsuit	3 MISSING
 racket	3
 practice	3
 opening	3
-caribous	3
-African	3
+caribous	3 MISSING?
+African	3 WRONG
 cop	3
 country	3
 screen	3
@@ -786,11 +786,11 @@ athlete	3
 loaf	3
 sheepdog	3
 teammate	3
-upside-down	3
+upside-down	3 WRONG!!
 stadium	3
 make-up	3
 waste	3
-shopping	3
+shopping	3 WRONG
 worker	3
 accident	3
 ginger	3
@@ -798,7 +798,7 @@ holiday	3
 capsicum	3
 boardwalk	3
 mound	3
-pyramid	3
+pyramid	3 WRONG
 sledgehammer	3
 coating	3
 rally	3
@@ -807,10 +807,10 @@ cross	3
 trip	3
 dusk	3
 bale	3
-afghan	3
+afghan	3 
 cheek	3
 position	3
-drawing	3
+drawing	3 WRONG???
 bandanna	3
 paperwork	3
 goggles	3
@@ -837,14 +837,14 @@ jewelry	3
 pet	3
 audience	3
 sledge	3
-outfits	3
+outfits	3 ???
 hose	3
 incline	3
 pasta	3
 tower	3
 leotard	3
 meal	3
-seabird	3
+seabird	3 MISSING
 tights	3
 logo	3
 float	3
@@ -853,7 +853,7 @@ racquet	3
 stump	3
 arcade	3
 gallery	3
-burning	3
+burning	3 WRONG???
 call	3
 pinwheel	3
 war	3
@@ -866,9 +866,9 @@ skull	3
 easel	3
 candle	3
 rainbow	3
-kickboxing	3
+kickboxing	3 WRONG!!
 tie	3
-midair	3
+midair	3 MISSING??
 basement	3
 mantel	3
 bullet	3
@@ -893,7 +893,7 @@ monitor	2
 marsh	2
 upward	2
 lipstick	2
-red	2
+red	2   WRONG??
 retriever	2
 conversation	2
 fight	2
@@ -911,7 +911,7 @@ mitt	2
 surf	2
 onlooker	2
 pistol	2
-crocheting	2
+crocheting	2 WRONG!!!
 hardwood	2
 close	2
 toad	2
@@ -942,20 +942,20 @@ ponytail	2
 rolling	2
 age	2
 Okra	1
-splashing	1
+splashing	1 WRONG
 olive	1
 carpet	1
 tv	1
 hunger	1
 leap	1
-Young	1
-skiing	1
-wrestling	1
+Young	1 WRONG
+skiing	1 WRONG
+wrestling	1 WRONG
 rear	1
-n	1
+n	1 WRONG
 wrestler	1
 bloke	1
-sewing	1
+sewing	1 WRONG
 study	1
 guide	1
 soldier	1
@@ -964,38 +964,38 @@ cane	1
 program	1
 throng	1
 suite	1
-none	1
+none	1 PRON?
 word	1
 past	1
 Video	1
 parquet	1
-schoolgirl	1
+schoolgirl	1 MISSING?
 discussion	1
 explorer	1
 sleeve	1
 men	1
-snowboarding	1
+snowboarding	1 WRONG!!!
 lap	1
-surfing	1
-Blue	1
+surfing	1 WRONG!
+Blue	1 WRONG
 customer	1
-talking	1
+talking	1 WRONG
 vicinity	1
 writing	1
 speaker	1
 dad	1
 manicure	1
-everyone	1
-waterskiing	1
+everyone	1 PRON
+waterskiing	1 WRONG
 enclosure	1
-living	1
+living	1 WRONG
 cyclone	1
 dunk	1
-training	1
+training	1 WRONG
 launch	1
-graffitus	1
+graffitus	1 WRONG
 signboard	1
-anyone	1
+anyone	1 PRON
 part	1
 boredom	1
 interviewer	1
@@ -1013,14 +1013,14 @@ cover	1
 youngling	1
 Pink	1
 golf	1
-hugging	1
+hugging	1 WRONG
 radio	1
 font	1
 dice	1
 jar	1
 aim	1
 enemy	1
-spilling	1
+spilling	1 WRONG
 activity	1
 ham	1
 set	1
@@ -1031,19 +1031,19 @@ marriage	1
 stuntman	1
 gamer	1
 walk	1
-daschund	1
-feather	1
+daschund	1 WRONG typo!
+feather	1 
 spyglass	1
 sunshine	1
-cornering	1
+cornering	1 WRONG
 Pieces	1
 cluster	1
-throwing	1
+throwing	1 WRONG
 bow	1
 speech	1
 palace	1
 running	1
-a	1
+a	1  WRONG
 cartoon	1
 cheer	1
 model	1
@@ -1054,21 +1054,21 @@ stunt	1
 talk	1
 console	1
 flooring	1
-thinking	1
+thinking	1 WRONG
 crack	1
 snap	1
-midspeech	1
+midspeech	1 MISSING?
 kick	1
 dark	1
 Food	1
-shoeless	1
+shoeless	1 WRONG
 skater	1
 sketch	1
 priest	1
 Eyeshadow	1
 pattern	1
 nothing	1
-or	1
+or	1 WRONG
 rollerblade	1
 female	1
 Orange	1
@@ -1079,11 +1079,11 @@ cloth	1
 lead	1
 cake	1
 advertisement	1
-topless	1
+topless	1 WRONG
 flight	1
 ship	1
 pigtail	1
-fencing	1
+fencing	1 WRONG
 guitarist	1
 rubber	1
 nap	1
@@ -1092,7 +1092,7 @@ downward	1
 apparel	1
 insect	1
 lunch	1
-ridden	1
+ridden	1 WRONG
 home	1
 midst	1
 time	1
