@@ -1,4 +1,3 @@
-%new nouns.txt file
 accessory
 accident
 acrobatics
