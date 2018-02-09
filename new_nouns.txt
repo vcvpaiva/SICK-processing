@@ -15,20 +15,19 @@ alligator
 amphitheater
 angel
 animal
-ankle
-anyone
+ankle ok
 apparel
 arcade
 area
 arm
-armband
+armband bad
 arrangement
 art
 artist
-athlete
-audience
-automobile
-axe
+athlete bad
+audience bad
+automobile ok
+axe ok
 -------
 baby
 back
