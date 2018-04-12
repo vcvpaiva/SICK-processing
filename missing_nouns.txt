@@ -1,7 +1,6 @@
 Nouns not in PWN
 biker (added in 3.1)
 motocross
-~~jeep~~  WRONG
 ATV (all terrain vehicle)
 t-ball
 seadoo
@@ -13,7 +12,7 @@ kiddie (added in 3.1)
 jetski
 waterski
 footbag
-motocross
+
 
 Canon (camera)
 
