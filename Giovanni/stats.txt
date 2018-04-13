@@ -1,0 +1,70 @@
+SICK_dependencies.txt
+# trees 6076
+# pos tags 29
+# dep tags 31
+# ner mwe 855.0
+# dedupe mwe 26
+
+pos tag and dependency
+# NN 15100
+# DT 12732
+# VBG 6531
+# IN 6448
+# VBZ 5655
+# JJ 3888
+# NNS 2478
+# CC 1430
+# VBP 1254
+# RB 1017
+# CD 783
+# VBN 731
+# EX 539
+# RP 403
+# , 311
+# PRP$ 294
+# WDT 219
+# TO 207
+# WP 98
+# PRP 73
+# VB 49
+# POS 41
+# NNP 40
+# VBD 39
+# . 19
+# MD 10
+# JJR 8
+# NNPS 4
+# WRB 1
+
+dependency and frequency
+# det 12120
+# case 6540
+# nmod 6258
+# nsubj 6108
+# aux 5576
+# amod 3339
+# dobj 3250
+# conj 1443
+# cc 1427
+# compound 1154
+# neg 1006
+# nummod 724
+# advmod 711
+# acl 677
+# cop 572
+# expl 539
+# auxpass 471
+# nsubjpass 433
+# acl:relcl 429
+# compound:prt 422
+# punct 330
+# nmod:poss 322
+# dep 146
+# xcomp 93
+# mark 69
+# advcl 67
+# ccomp 65
+# nmod:npmod 13
+# iobj 8
+# nmod:tmod 7
+# appos 7
