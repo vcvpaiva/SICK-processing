@@ -1,4 +1,3 @@
-water from the faucet is being drunk by a yellow dog.
 A Seadoo is being ridden by a woman.
 An animal is grazing in a field.
 A baby and an adult are being followed by a rhino.
@@ -33,7 +32,6 @@ A bald person is playing a guitar.
 A ball is being caught by a dog in mid air.
 A ball is being chased by a dog on the grass.
 A ball is being chased by a yellow dog.
-A ball made of wood is being played through a door in front of a large group of boys .
 A banana is being eaten by a man.
 A banana is being peeled by a person.
 A band is not performing on a stage.
@@ -69,7 +67,6 @@ A big wave is being ridden by a surfer across dark green water.
 A big white dog is running across a lawn.
 A bike is being held over his head by a bicyclist in a group of people.
 A bike is being ridden by a person.
-A bike is being ridden by a woman wearing paint and costume pieces on a busy street.
 A bike is being ridden over a monkey.
 A bike is ridden on the road by a young boy in a helmet .
 A bike rider in a black and red uniform is jumping down off a dirt bike.
@@ -78,8 +75,6 @@ A biker is jumping in the air, alone.
 A biker is naked.
 A biker is riding along the top of a fence.
 A biker is riding away from a fence.
-A biker wearing black is breaking the gears.
-A biker with a blue jacket, black pants and a white helmet is driving recklessly on dirt and people watch.
 A bird is fiercely flapping its wings on the water.
 A bird is flapping its wings on the water.
 A bird is resting its wings in the water.
@@ -126,12 +121,8 @@ A black dog and a white dog are wrestling on the floor.
 A black dog and a white dog are wrestling on the ground.
 A black dog and a yellow dog are not playing with each other.
 A black dog and a yellow dog are playing with each other.
-A black dog in the snow is jumping off the ground and catching a stick.
-A black dog in the snow is jumping onto the ground and missing a stick.
-A black dog in the snow is leaping off the ground and catching a stick.
 A black dog is approaching a golden dog on pebbly beach.
 A black dog is attacking a brown dog on the sand.
-A black dog is hanging out in the grass and running with its tongue out.
 A black dog is jumping from a cylindrical hay bale.
 A black dog is jumping from a dock into the water.
 A black dog is jumping from n hay ball to another hay ball.
@@ -146,7 +137,6 @@ A black dog is playing with a brown dog on the sand.
 A black dog is running across a rocky landscape.
 A black dog is running in the grass.
 A black dog is running in the snow.
-A black dog is sitting in the grass and keeping its mouth closed.
 A black dog is standing in deep water.
 A black dog is standing in shallow water.
 A black dog is standing on a grassy hillside.
@@ -172,13 +162,11 @@ A black, red, white and pink dress is being worn by a woman.
 A blond boy is sliding down a dune of sand on a skateboard.
 A blond boy is sliding down a sand dune on a skateboard.
 A blond boy is walking up a sand dune with a skateboard.
-A blond child is going down a slide and throwing up his arms.
 A blond child is holding a yellow bottle.
 A blond girl is looking at the waves.
 A blond girl is riding the waves.
 A blond girl waves while she is riding.
 A blond kid in green is sitting on a swing.
-A blond kid is going down a slide and throwing up his arms.
 A blonde boy in green is sitting on a swing.
 A blonde boy in green is standing on a swing.
 A blonde girl is hanging by gymnastic ropes.
@@ -219,19 +207,14 @@ A boy in his teens isn't talking to a girl with a webcam.
 A boy is attentively looking at a calendar.
 A boy is being knocked into the water by the dog.
 A boy is checking a calendar.
-A boy is comfortably sitting in a room and playing a piano by a lamp.
-A boy is coming down a wall artificially built for climbing and isn't attached to the rope.
 A boy is cutting grass with scissors.
 A boy is eating a cupcake.
 A boy is fearfully walking across a bridge.
 A boy is filling a pitcher with water.
-A boy is hanging a fishing rod and running in front of a fish .
-A boy is hanging a rod for fishing and running in front of a fish.
 A boy is happily playing the piano.
 A boy is hitting a baseball.
 A boy is holding a squirt gun.
 A boy is jumping off the side of a stone water fountain in front of a building.
-A boy is jumping off the side of a water fountain made of stone in front of a building.
 A boy is jumping on the side of a stone water fountain in front of a building.
 A boy is jumping rope on a sidewalk near a parking garage.
 A boy is knocking a dog with a bottle of water.
@@ -260,7 +243,6 @@ A boy is running towards the fishing line.
 A boy is saying a word.
 A boy is saying something.
 A boy is shredding a calendar.
-A boy is sitting in a room and playing a piano by lamp light.
 A boy is sitting in a seat.
 A boy is sitting on the ground.
 A boy is skateboarding on a half pipe.
@@ -270,8 +252,6 @@ A boy is spanking a man with a toy weapon.
 A boy is spanking a woman with a plastic sword.
 A boy is speeding down a steep slide.
 A boy is standing in a room by a lamp light.
-A boy is standing in front of the blue building in the space reserved for handicapped people.
-A boy is standing in front of the building painted blue, in the space reserved for handicapped people.
 A boy is standing in the cold water.
 A boy is standing in the water.
 A boy is standing next to the opening of a fountain.
@@ -291,8 +271,6 @@ A boy next to some buckets of rags is holding an object.
 A boy next to some buckets of rags is holding something.
 A boy next to some buckets of rags is not holding an object.
 A boy of young age is playing in the park with his mother.
-A boy wearing a striped shirt is running barefoot on the sandy hill.
-A boy wearing red shorts is jumping into a paddling pool.
 A bride in a white dress is running.
 A bride with a black veil is looking down.
 A bride with a white dress is looking down.
@@ -323,7 +301,6 @@ A brown and white dog is playing on the grass.
 A brown and white dog is playing on the lawn.
 A brown and white dog is putting the baseball in its mouth down.
 A brown and white dog is resting in the grass.
-A brown and white dog is resting on the ground with a tennis ball in its mouth.
 A brown and white dog is running through the river.
 A brown and white dog is running through the tall grass.
 A brown and white dog is running through the water.
@@ -362,7 +339,6 @@ A brown dog is staring attentively at a brown and white dog.
 A brown duck with a green head is flapping its wings in the water.
 A brown puppy is biting a pole.
 A brown puppy is biting a stick.
-A bubble blew, dyeing the girl's shirt red..
 A bull dog is being brushed by the monkey.
 A bull dog is brushing the monkey.
 A bunch of boys are playing with a ball in front of a large door made of wood.
@@ -389,8 +365,6 @@ A cat is jumping into a box.
 A cat is jumping into a container.
 A cat is looking at a store counter.
 A cat is not crawling under a piece of furniture.
-A cat is opening a drawer and climbing inside.
-A cat is opening a drawer and jumping inside.
 A cat is playing a keyboard.
 A cat is playing a piano.
 A cat is playing a piano funnily.
@@ -411,7 +385,6 @@ A cat is walking away from some corn.
 A cat is walking on a hardwood floor.
 A cat is walking on the parquet.
 A cat song is being played on a piano.
-A cat with a white coat, perched on a small wooden cabinet, is looking outside the window.
 A cheetah is breathlessly chasing its prey across a field.
 A cheetah is chasing its prey across a field.
 A cheetah is quickly running behind its prey..
@@ -427,8 +400,6 @@ A child in a green and white sports uniform is running over the grass.
 A child in a green and white uniform for sports is running over the grass.
 A child in a red outfit is dangerously jumping on a trampoline.
 A child in a red outfit is jumping on a trampoline.
-A child in light colored clothing is lying with his arms crossed.
-A child in light colored clothing is standing with his arms extended outward.
 A child in orange is playing outdoors with a snowball.
 A child is amazedly experiencing a new world.
 A child is experiencing a new world.
@@ -436,24 +407,18 @@ A child is falling asleep.
 A child is hitting a baseball.
 A child is holding a camera in front of his face.
 A child is holding a squirt gun.
-A child is indoors watching a program about some young climbers on a rock wall..
-A child is looking seriously at the camera and getting out of a pool.
 A child is making a snow ball.
 A child is missing a baseball.
 A child is not playing slip and slide in the grass.
 A child is playfully swimming underwater in a pool.
 A child is sitting in a red and yellow toy car.
-A child is sitting in a toy car colored in red and yellow.
 A child is slowly waking up.
 A child is smashing a snow ball.
-A child is smiling at the camera and swimming underwater.
 A child is staring at the ocean waves.
 A child is swimming on the water's surface in a pool.
 A child is swimming underwater in a pool.
 A child is talking.
 A child is waking up.
-A child with dark hair is going down a slide and throwing up his arms.
-A child, who looks young, is standing in front of some trees.
 A chimp is angrily kicking a target.
 A chimp is missing the target.
 A chimp is practicing martial arts.
@@ -484,8 +449,6 @@ A couple is lying on a bed together.
 A couple is not looking at a map.
 A couple is running towards the ocean.
 A couple is running towards the water.
-A couple is sitting on a patio and looking at the ocean.
-A couple is standing on a patio and looking at the sky.
 A couple of boys are playing a video game.
 A couple of policewomen are singing.
 A couple of policewomen are singing karaoke.
@@ -497,9 +460,7 @@ A cow is eating hay.
 A cow is grazing.
 A cow is not eating grass.
 A cow is not eating hay.
-A cowboy is riding a horse and cornering a barrel.
 A cowgirl is riding a barrel near a horse in the corner.
-A cowgirl is riding a horse and corners a barrel.
 A cramped black train is on the bag of a girl.
 A crowd is posing for a large camera man in heavy clothing.
 A crowd of people is far from the water.
@@ -519,7 +480,6 @@ A dad is launching his daughter into a swimming pool.
 A dark black dog and a light brown dog are fighting in the backyard.
 A dark black dog and a light brown dog are playing in the backyard.
 A dark black dog and a light brown dog are playing in the yard in the back.
-A dead bird is near a black man sitting on a tree.
 A deer is jumping a fence.
 A deer is jumping over a cyclone fence.
 A deer is jumping over a fence.
@@ -528,8 +488,6 @@ A deer is jumping over the enclosure.
 A deer is standing inside a fence.
 A deer isn't jumping over the fence.
 A dirty soccer ball is rolling into a goal net.
-A dirty tan dog is rolling in the dirt and looking right at the camera.
-A dirty tan dog is rolling in the water and looking right at the camera.
 A distant person with a blue backpack is hiking area full of rocks.
 A distant person with a blue backpack is hiking in rocky area.
 A dog and a black man are running through brown leaves.
@@ -556,7 +514,6 @@ A dog is chasing a ball.
 A dog is chasing a ball in the grass.
 A dog is chasing a ball on the grass.
 A dog is chasing a ball through dirt.
-A dog is chasing a stick and holding another dog in its mouth.
 A dog is chasing the tail of an animal in the grass.
 A dog is closing a can of food.
 A dog is crossing a river on a bridge made from a fallen tree.
@@ -578,7 +535,6 @@ A dog is jumping at dry leaves in a field of shiny blue soccer balls.
 A dog is jumping for a Frisbee in the snow.
 A dog is jumping high into the air in the country.
 A dog is jumping in the air.
-A dog is jumping in the air to catch a red ball.
 A dog is jumping in the shade of some trees.
 A dog is jumping into a box.
 A dog is jumping into the air in the country.
@@ -598,10 +554,7 @@ A dog is near the red ball in the air.
 A dog is not running towards a ball.
 A dog is not swimming in a body of water.
 A dog is opening a can of food.
-A dog is opening a drawer and climbing inside.
 A dog is opening a jar of food.
-A dog is playing alone on a beach covered by snow.
-A dog is playing alone on the shore covered by snow.
 A dog is playing in the green field.
 A dog is playing on the green grass.
 A dog is playing on the ground.
@@ -625,11 +578,8 @@ A dog is running on a muddy path.
 A dog is running on a snowy path.
 A dog is running on a snowy road.
 A dog is running on the beach.
-A dog is running on the beach and chasing a ball.
-A dog is running on the grass and chasing a ball.
 A dog is running on the ground.
 A dog is running on the road.
-A dog is running on the sand and chasing a ball.
 A dog is running on the sea shore.
 A dog is running through the snow.
 A dog is running through the white snow.
@@ -643,7 +593,6 @@ A dog is running with a volleyball.
 A dog is scattering a pack of white sheep on a dusty farm.
 A dog is sitting by a fence on a dirt track.
 A dog is sitting on the ground.
-A dog is sleeping on a beach covered by snow.
 A dog is sleeping on the green grass.
 A dog is sleeping on the ground.
 A dog is standing on a mountain.
@@ -653,8 +602,6 @@ A dog is swimming after a ball.
 A dog is swimming after a tennis ball.
 A dog is swimming in a body of water.
 A dog is teasing a monkey at the zoo.
-A dog is turning on the grass and pursuing a flying ball.
-A dog is turning on the grass and pursuing a flying tennis ball.
 A dog is walking along a snowdrift.
 A dog is walking along the snowdrift.
 A dog is walking away from a baby.
@@ -691,7 +638,6 @@ A family is buying something at the vending machine.
 A family is not purchasing something at a vending machine.
 A family is posing by the mantel and the Christmas tree.
 A family is purchasing something at the vending machine.
-A family, which looks happy, is posing by the fireplace.
 A famous singer is dancing on the ceiling.
 A father is in the swimming pool during his daughters launch.
 A father is launching the daughter in a swimming pool.
@@ -701,13 +647,10 @@ A fearful little boy is on the ground.
 A female cheerleader is jumping on the knee of a male cheerleader.
 A female cheerleader is sitting on the knee of a male cheerleader.
 A female cheerleader is sitting on the knee of a man.
-A female wearing pink gloves and a brown jacket is not smiling in the snow.
-A female wearing pink gloves and a brown jacket is smiling in the snow.
 A few animals are out of the water.
 A few animals are playing in the water.
 A few children are jumping on a trampoline.
 A few ferrets are climbing out of the cage.
-A few horses are racing furiously over the green grass and jumping the obstacle.
 A few kittens are eating.
 A few men are cheerfully playing cricket.
 A few men are dancing.
@@ -723,7 +666,6 @@ A few people are singing.
 A few people are sitting on a bench under some palm trees.
 A few swimmers are racing in a lake.
 A few women are dancing.
-A few women are holding each other and dancing together.
 A fish is being cut by a man.
 A fish is being sliced by a man.
 A fish is hunting for a turtle in the sea.
@@ -742,9 +684,6 @@ A football player in a purple jersey is running with the ball for a touchdown.
 A football player in a red and white uniform is being lifted by two teammates.
 A football player in a red and white uniform is being pulled down by two teammates.
 A football player is carrying an official past a rolling football.
-A football player is falling into the grass to dodge a little kid.
-A football player is running into an official carrying a football.
-A football player is running past an official carrying a football.
 A football player is taking off black armbands.
 A football player is wearing black armbands.
 A frog is being handled by the woman.
@@ -754,15 +693,11 @@ A fur scarf is being held by an Asian woman.
 A furry brown dog is running through the grassy area.
 A girl dressed in purple and blue is slowly walking beside her bike at night.
 A girl dressed in purple and blue is walking beside her bike at night.
-A girl from Asia, in front of a brick window, doesn't look surprised.
-A girl from Asia, in front of a brick window, looks surprised.
-A girl from Asia, in front of a window made of bricks, looks surprised.
 A girl has colored patches on the cheeks.
 A girl in a band is playing an instrument.
 A girl in a band is playing the flute.
 A girl in a black hat is standing topless at the beach.
 A girl in a black hat is wearing a bikini at the beach.
-A girl in a blue shirt, who looks young, is walking on the sidewalk and holding up a pink sign.
 A girl in a strange outfit is riding the bike.
 A girl in a uniform is not playing the flute with a marching band.
 A girl in a uniform is playing the flute with a band.
@@ -822,7 +757,6 @@ A girl is using sign language.
 A girl is waking up.
 A girl is wearing an orange shirt and a striped tie.
 A girl is wearing sunglasses.
-A girl wearing a striped shirt is running barefoot on the sandy hill.
 A girl with Indian clothing and henna on her hand is going through paperwork.
 A girl with a bikini is playing in the dunes.
 A girl with a bikini is playing in the sand.
@@ -845,12 +779,9 @@ A grey dog is bouncing a tennis ball on its head in a grass field.
 A grey dog is jumping toward a black and white dog in the snow.
 A grey dog is jumping toward a black and white dog in the soft snow.
 A grey dog is jumping toward a black and white dog in the water.
-A grey silky dog is running in the grass and a brown dog looks on.
 A group is not riding the current in a raft.
 A group of Asian girls are standing by themselves.
 A group of Asian girls are standing together.
-A group of boys are playing with a ball in front of a large door made of wood.
-A group of boys are quiet in front of a large door made of wood.
 A group of boys is not playing soccer on the beach.
 A group of boys is playing soccer on the beach.
 A group of boys is playing soccer on the seashore.
@@ -897,7 +828,6 @@ A group of people is singing.
 A group of people is sitting on both sides of a red stone structure.
 A group of people is sitting relaxed on both sides of a red stone monument.
 A group of people is standing on both sides of a red stone structure.
-A group of people playing football is running in the field.
 A group of racing dogs are nosing a muzzle.
 A group of rollerbladers is lining up on the road.
 A group of rollerbladers is lining up on the street.
@@ -936,7 +866,6 @@ A herd of deer is crossing the street.
 A herd of deer is stopping at the street.
 A hockey player in a yellow jersey is guarding the goal.
 A hole is being burrowed by the badger.
-A homeless man is putting down a sign and refusing some charity.
 A horse and its rider are leaping over a barrier.
 A horse and its rider are leaping quickly over a barrier.
 A horse and its rider are not leaping over a barrier.
@@ -970,17 +899,12 @@ A kid is playing the piano.
 A kid is playing with a toy dog.
 A kid is practicing with an instrument.
 A kid is putting the guitar away.
-A kid is sitting wearing swim gear.
-A kid is smiling at the camera and swimming underwater.
 A kid is speeding down a steep slide.
 A kid is splashing in the ocean.
 A kid is splashing in the pool.
 A kid is splashing in the water.
 A kid is throwing away an instrument.
 A kid is waiting wearing swim gear.
-A kid swimming in the ocean is tossing a coin into the pool, near the man.
-A kid wearing a striped shirt is running barefoot on the sandy hill.
-A kid wearing red shorts is jumping into a paddling pool.
 A kitten is drinking fresh milk.
 A kitten is getting bored.
 A kitten is playing with a blue rope toy.
@@ -993,14 +917,12 @@ A lady is mixing a meat mixture in a bowl.
 A lady is mixing a mixture of meat in a bowl.
 A lady is putting on makeup.
 A lady is standing near three children.
-A lady who looks young is lying on the beach.
 A large black dog is jumping in the air over a snowy area.
 A large brown cat is jumping over a red hurdle.
 A large brown dog and a small grey dog are standing on a rocky surface.
 A large brown dog is jumping over a red hurdle.
 A large crowd in warm clothing is posing for a camera.
 A large crowd in warm clothing is walking away from a camera.
-A large dog and a small dog is standing on the kitchen counter and investigate.
 A large dog is running on the grass with a tennis ball in its mouth.
 A large duck is flying over a rocky stream.
 A large duck is perching over a rocky stream.
@@ -1014,7 +936,6 @@ A large jump is being performed by a man.
 A large man is sitting in a military accessories shop.
 A large man is sitting in a military accessories store.
 A large stream is full of rocks, ducks and flies.
-A large tennis ball is being used to teach a dog to run in the grass and catch it with its mouth.
 A large wet yellow cat is retrieving a toy.
 A large wet yellow dog is holding a toy.
 A large wet yellow dog is retrieving a toy.
@@ -1022,10 +943,7 @@ A large white animal is jumping up in the snow.
 A large white crane is flying far above the water.
 A large white crane is flying near the water.
 A large white dog is jumping in the air over a snowy area.
-A large white dog is jumping in the air over an area covered by snow.
 A large white dog is jumping up in the snow.
-A laughing child is holding a water gun and getting sprayed with water.
-A laughing man is dyeing a shirt black on the table which you cannot sit at .
 A leap over white snow is greatly appealing to the snowboarders.
 A lemon is being squeezed by a woman.
 A lemur is being stroked by a woman.
@@ -1045,34 +963,24 @@ A lion is slowly moving around.
 A lion is slowly walking.
 A lion is tiring the whole pen by pacing.
 A little black dog is chasing a little brown dog.
-A little boy and a woman wearing a yellow shirt are getting splashed by a city fountain.
 A little boy in a pink shirt is running under a tree in the desert.
 A little boy in a striped shirt is sliding out of a green tube.
-A little boy in clothes dyed in red is jumping into the air.
 A little boy in red clothes is jumping into the air.
 A little boy in red clothes is jumping onto the ground.
-A little boy is crawling in a green tunnel with a smile on his face.
 A little boy is getting out of a puddle in the street.
 A little boy is jumping into a puddle in the street.
 A little boy is jumping into a puddle on the street.
 A little boy is playing a guitar.
-A little boy is running on the ground and playing with a little girl.
-A little boy is sitting in a green tunnel with a smile on his face.
 A little boy with a bib is not watching the camera.
 A little boy with a bib is watching the camera.
 A little boy with brown hair is jumping off of a brown chair onto the floor.
 A little boy's jumper is in a puddle in the street.
-A little boy, who looks fearful, is on a climbing wall..
 A little brown and white dog is running on the road.
 A little brown and white dog is running on the sidewalk.
 A little cat is drinking fresh milk.
 A little child in a pink sweater is climbing a concrete staircase.
 A little dog is running on the beach.
 A little dog is running on the sand.
-A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain.
-A little girl and a woman wearing a yellow shirt are getting splashed near a fountain.
-A little girl in a green coat and a boy holding a red sled are lying in the snow.
-A little girl in a green coat and a boy holding a red sled are walking in the snow.
 A little girl in a pink shirt is running under a tree in the desert.
 A little girl in costume looks like a woman.
 A little girl is hitting a ball off a tee.
@@ -1094,7 +1002,6 @@ A machine is sharpening a pencil.
 A magic trick is being performed by the magician.
 A magician is cutting a girl into two pieces like butter.
 A male is dancing.
-A malnourished looking dog is standing on its hind legs and preparing to jump.
 A man and a child are kayaking through gentle waters.
 A man and a woman are driving down the road in a car.
 A man and a woman are driving down the road in an open-air vehicle.
@@ -1134,15 +1041,7 @@ A man and woman are talking.
 A man at the keyboard is playing with his nose.
 A man by a brick wall is wearing a mask around his mouth and a hair net.
 A man by a wall made of bricks is wearing a mask around his mouth and a hair net.
-A man doing a pose is being watched by another man.
-A man doing exercises is being floored.
-A man dressed in black is riding a bike.
-A man dressed in black is wearing an elaborate black mask.
-A man dressed in black is wearing inline skates and performing a trick on a rail.
-A man dressed in black is wearing inline skates and performing acrobatics on a rail.
-A man elegantly dressed in black is wearing an elaborate black mask.
 A man from the wilderness is on a walking path.
-A man in a big city is holding a sign and begging for money.
 A man in a black hat is not reaching for a box.
 A man in a black hat is reaching for a box.
 A man in a black hat is touching a cardboard box.
@@ -1161,8 +1060,6 @@ A man in a hat is standing outside of a green jeep.
 A man in a hat is standing outside of a green vehicle.
 A man in a hat is walking past a store.
 A man in a hat is walking through a store.
-A man in a motocross uniform is wearing a helmet and rides a red motorcycle.
-A man in a pose is being amusedly watched by another man.
 A man in a purple hat is climbing a rocky wall with bare hands.
 A man in a purple hat isn't climbing a rocky wall with bare hands.
 A man in a red jacket and khaki pants is walking through an American state.
@@ -1187,7 +1084,6 @@ A man in blue is riding a animal on a dirt road.
 A man in blue is riding a horse on a dirt road.
 A man in blue jeans is standing in front of a group of children beside a stone built house.
 A man in gold and purple is holding a rainbow afghan.
-A man is abruptly falling off a horse on a track laid in the wild.
 A man is adding pieces of butter to a mixing bowl.
 A man is applying a silencer to a gun.
 A man is arranging the garden.
@@ -1204,7 +1100,6 @@ A man is boiling noodles in water.
 A man is breaking a block of concrete with a sledge hammer.
 A man is breaking a slab of concrete with a sledge hammer.
 A man is breaking a wooden hand against a board.
-A man is breaking boards made of wood with his hand.
 A man is breaking tiles with his hands.
 A man is breaking wooden boards with his hand.
 A man is bringing up the rear of the race.
@@ -1299,8 +1194,6 @@ A man is drawing on a digital dry erase board.
 A man is drawing some figures.
 A man is drilling a hole in a piece of wood.
 A man is drilling a hole with a piece of wood.
-A man is drinking orange juice and walking.
-A man is drinking orange juice and walking on a sunny day.
 A man is driving a car.
 A man is driving a motorbike.
 A man is driving a vehicle.
@@ -1309,14 +1202,11 @@ A man is dropping the guitar.
 A man is eating.
 A man is eating a banana.
 A man is eating a bowl of cereal.
-A man is eating a carrot sliced by a machine.
 A man is eating a fruit.
 A man is eating a pizza.
 A man is eating near the kittens.
 A man is eating onion slices.
 A man is eating some food.
-A man is emptying a container made of plastic.
-A man is emptying a container made of plastic completely.
 A man is emptying a plastic container.
 A man is erasing some figures.
 A man is escaping a rising swamp.
@@ -1325,7 +1215,6 @@ A man is exhibiting a small monkey.
 A man is failing to perform a bicycle trick in midair.
 A man is falling off a mechanical bull.
 A man is falling off a surfboard in the water.
-A man is filling a container made of plastic.
 A man is filling a plastic container.
 A man is firing a gun.
 A man is firing a shotgun.
@@ -1345,7 +1234,6 @@ A man is getting into a car in a garage.
 A man is getting into an automobile.
 A man is getting off the car.
 A man is getting off the motorcycle.
-A man is getting on a horse on a track laid in the wild.
 A man is going into the water.
 A man is hanging on the ledge of a balcony.
 A man is hanging up the phone.
@@ -1425,11 +1313,6 @@ A man is on a boat in front of the sunset.
 A man is on a ship in front of the sunset.
 A man is opening a box with a knife.
 A man is opening a door.
-A man is opening a package that contains headphones.
-A man is opening a package that doesn't contain headphones.
-A man is opening a small package that contains headphones.
-A man is opening a soda and drinking it.
-A man is outside close to a target for blade throwing.
 A man is packing a guitar.
 A man is packing a violin.
 A man is packing away an acoustic guitar.
@@ -1505,7 +1388,6 @@ A man is playing with a water toy in the water.
 A man is playing with water.
 A man is pointing at a car.
 A man is pointing at a silver sedan.
-A man is posing to be watched by another man.
 A man is pouring a plate of shredded cheese into a pot of sauce.
 A man is pouring a pot of cheese sauce into a shredded plate.
 A man is pouring cleaner into the sink.
@@ -1552,7 +1434,6 @@ A man is removing the peel of an onion.
 A man is removing vegetables from a pot.
 A man is repairing tiles with his hands.
 A man is resting.
-A man is resting on a chair and rubbing his eyes.
 A man is riding a bicycle.
 A man is riding a dirt bike down a dirt hill.
 A man is riding a dirty horse on a blue road.
@@ -1562,7 +1443,6 @@ A man is riding a horse in the desert.
 A man is riding a horse on the beach.
 A man is riding a mechanical bull.
 A man is riding a motorbike.
-A man is riding a motorbike in the event related to motocross.
 A man is riding a motorcycle.
 A man is riding a motorcycle through the town.
 A man is riding a rodeo bull.
@@ -1577,8 +1457,6 @@ A man is rinsing a large piece of meat.
 A man is rinsing a large steak.
 A man is rising from a swamp.
 A man is roasting a snake.
-A man is rock climbing, pausing and calculating the route.
-A man is rock climbing, stopping and calculating the route.
 A man is rowing a boat.
 A man is rowing a canoe.
 A man is running.
@@ -1604,7 +1482,6 @@ A man is shooting with a weapon.
 A man is showing off a small monkey.
 A man is silent.
 A man is singing.
-A man is singing a song and playing the guitar.
 A man is singing into a microphone.
 A man is singing into an old microphone.
 A man is singing passionately.
@@ -1616,16 +1493,10 @@ A man is sitting in a field.
 A man is sitting in the rain.
 A man is sitting in the woods.
 A man is sitting on a boat in font of the sunset, near a flag.
-A man is sitting on a chair and rubbing his eyes.
 A man is sitting on a sidewalk.
-A man is sitting on a train and resting his hand against his face.
 A man is sitting on the beach.
-A man is sitting on the floor in a room and strumming a guitar.
-A man is sitting on the grass and drinking from a water bottle.
-A man is sitting on the lawn and drinking from a water bottle.
 A man is sitting peacefully on a boat in front of the sunset near a flag.
 A man is skateboarding on a half pipe.
-A man is skiing down a hill and jumping a red obstacle.
 A man is skiing down a hill and over a red obstacle.
 A man is skiing down a snowy hill.
 A man is skiing down a snowy mountain.
@@ -1642,7 +1513,6 @@ A man is slicing butter.
 A man is slicing onions.
 A man is slicing potatoes.
 A man is slicing some bread.
-A man is slicing some garlic and putting away the bread.
 A man is slicing the carrot with a machine.
 A man is slicing tomatoes.
 A man is slowly dancing on the road.
@@ -1654,7 +1524,6 @@ A man is speaking.
 A man is speaking about the stage.
 A man is speaking on a podium.
 A man is speaking on a stage.
-A man is spilling orange juice and standing still.
 A man is spitting.
 A man is spitting on the ground.
 A man is spraying a super soaker into the mouth of a dog.
@@ -1662,8 +1531,6 @@ A man is spreading dough.
 A man is sprinkling cheese on a pizza.
 A man is sprinkling seasoning on several sliced and buttered loaves of bread.
 A man is sprinkling shredded cheese on a pizza.
-A man is squatting in brush and taking a photo.
-A man is squatting in brush and taking a photograph.
 A man is squirting water into the mouth of a white dog with a squirt gun.
 A man is standing bare-chested beside a yellow canoe on some rocks with water in the background.
 A man is standing behind the rocks with clouds on top of them.
@@ -1677,10 +1544,7 @@ A man is standing on a boat in front of the sunset near a flag.
 A man is standing on a dirt hill next to a black car.
 A man is standing on a dirt hill next to a black jeep.
 A man is standing on a roof.
-A man is standing on a roof top and playing a violin.
 A man is standing on a sidewalk.
-A man is standing on a train and resting his hand on his lap.
-A man is standing on the top of a roof and playing a violin.
 A man is standing on the top of the rocks with clouds behind them.
 A man is standing shirtless in the street.
 A man is standing still.
@@ -1710,11 +1574,9 @@ A man is trekking in the woods.
 A man is tying a shoe.
 A man is tying a thick rope.
 A man is tying the shoe.
-A man is typing on a machine used for stenography.
 A man is unfolding a tortilla.
 A man is untying a rope.
 A man is untying a shoe.
-A man is using a knife to open a box.
 A man is walking a woman through the woods.
 A man is walking along a path through a wilderness.
 A man is walking along a track through a wilderness.
@@ -1726,62 +1588,40 @@ A man is walking outside.
 A man is walking slowly across a bridge made of rope.
 A man is walking slowly across a rope bridge.
 A man is watering a tree.
-A man is watering the grass and excitedly playing with a dog.
-A man is wearing a blue checkered shirt and cheerfully riding a unicycle in the street.
-A man is wearing a blue checkered shirt and riding a unicycle in the street.
-A man is wearing a blue shirt and walking barefoot on a tennis court.
 A man is wearing a clear plastic cap and a face mask.
 A man is wearing a clear plastic cap and a mask.
 A man is wearing a colorful shirt and a lot of jewelry.
-A man is wearing a hard hat and dancing.
-A man is wearing a red jacket and standing beside a yellow canoe on some boulders with water in the background.
-A man is wearing a red jacket and standing beside a yellow canoe on some rocks with water in the background.
-A man is wearing a straw hat and smoking a cigarette.
 A man is whacking a boy with a sword.
 A man is wiping the edge of a bowl.
 A man is working on the computer.
 A man is working on the laptop.
 A man isn't pouring oil on the tomatoes..
 A man isn't sitting comfortably at the table.
-A man isn't tossing a kid into the swimming pool that is near the ocean.
 A man on a bicycle is riding on one wheel only.
 A man on a bicycle is riding on the beach.
 A man on a bike is jumping on a pyramid-shaped ramp.
 A man on a bike is riding on the shore.
 A man on a green bike is performing tricks on a dirt ramp.
 A man on a green car is performing tricks on a dirt ramp.
-A man on a horse is riding on a track and waving.
 A man on a motorcycle is doing a trick.
 A man on a motorcycle is going around a corner.
 A man on a motorcycle is not riding on one wheel.
-A man on a motorcycle is riding on a track and waving.
-A man on a motorcycle is riding on a track and waving happily.
 A man on a motorcycle is riding on one wheel.
 A man on a motorcycle is turning around a corner.
 A man on a yellow dirt bike is taking a jump.
 A man on inline skates is resting at a skate park.
-A man on inline skates is skating at a park built for skating.
 A man on inline skates is skating at a skate park.
-A man wearing a dyed black shirt is sitting at the table and laughing.
 A man with Indian clothing and henna on his hand is going through paperwork.
 A man with a backwards hat is sitting on the ground.
 A man with a camera is studying the subject.
 A man with a hard hat is dancing.
-A man with a helmet painted red is riding a blue motorcycle down the road.
 A man with a jersey is dunking the ball at a basketball game.
 A man with a shirt is holding a football.
-A man with a shirt is posing with the arms spread next to a woman.
-A man with equipment used for climbing is hanging from a white, vertical rock..
-A man with equipment used for climbing is under a vertical, white rock.
 A man with no hat is sitting on the ground.
 A man with no hat is standing outside of a green jeep.
 A man with no shirt is holding a football.
 A man with no shirt is jumping over a log.
-A man with paint covered clothes is sitting outside in a busy area writing something.
 A man with tattoos is holding a couch with a pencil.
-A man with tattoos is lounging on a couch and holding a pencil.
-A man without a shirt is posing with the arms spread near a woman.
-A man without a shirt is posing with the arms spread next to a woman.
 A man's face is being painted by a woman.
 A man's white car is being driven away.
 A man, a woman and two girls are sitting on the beach.
@@ -1812,7 +1652,6 @@ A motocross rider is giving a motorbike to a person at an event.
 A motorbike rider is jumping over a person on a sandy track.
 A motorbike rider is running over a man .
 A motorcycle is being ridden by a man.
-A motorcycle is riding standing up on the seat of the vehicle.
 A motorcycle racer is riding a red and black bike.
 A motorcycle rider is standing up on the seat of a white motorcycle.
 A motorcyclist is riding a motorbike along a roadway.
@@ -1826,7 +1665,6 @@ A musician is playing a keyboard.
 A musician is playing two keyboards.
 A naked girl is walking beside her bike at night.
 A nearby throng of people are kissing two by two.
-A newspaper is featuring a woman with large sized hands holding sunglasses and wearing a coat.
 A nude crowd in body paint is walking in front of a lady .
 A nude lady is walking in front of a crowd in body paint.
 A nude lady is walking in front of many people in body paint.
@@ -1847,14 +1685,11 @@ A person in a blue colored jacket is jumping off of a tall cement wall.
 A person in a blue jacket is jumping off of a tall cement wall.
 A person in a blue jacket is jumping onto a tall cement wall.
 A person in a blue jacket is wearing a colorful helmet.
-A person in a motocross uniform is not wearing a helmet and riding a red motorcycle.
-A person in a motocross uniform is wearing a helmet and rides a red motorcycle.
 A person in a pink jacket is not running onto the field.
 A person in a pink jacket is running onto the field.
 A person in a red jacket and khaki pants is walking through an American state.
 A person in biking gear is standing steadily in front of some mountains .
 A person in pink is running onto the field.
-A person in the gear used for biking is standing steadily in front of the mountains.
 A person is absently cutting mushrooms with a knife.
 A person is being kicked by a monkey.
 A person is boiling noodles.
@@ -1862,7 +1697,6 @@ A person is bowling the ingredients to the man at the mixer.
 A person is brushing a cat.
 A person is burning some cameras with a blow torch.
 A person is buttering a tray.
-A person is cementing a jacket in a blue tall wall and jumping.
 A person is chopping a red onion.
 A person is chopping an onion.
 A person is chopping down a tree with an axe.
@@ -1888,7 +1722,6 @@ A person is doing a trick with some cards.
 A person is doing acrobatics on a snowboard.
 A person is doing exercises.
 A person is drawing some figures.
-A person is drinking orange juice and walking.
 A person is driving the white car.
 A person is dropping chopped vegetables into a pot on the stove.
 A person is eating a cut onion.
@@ -1908,7 +1741,6 @@ A person is jotting something with a pencil.
 A person is kicking a ball for a soccer game between somebody's feet.
 A person is kicking a monkey.
 A person is kicking a soccer ball between their feet.
-A person is listening to a trumpet playing.
 A person is lying on the top of the rocks with clouds behind them.
 A person is making a bed.
 A person is not chopping an onion.
@@ -1939,7 +1771,6 @@ A person is performing acrobatics on a motorcycle.
 A person is performing tricks on a motorcycle.
 A person is piecing together an onion.
 A person is planting a tree.
-A person is playing a guitar and singing.
 A person is playing a keyboard.
 A person is playing a piano.
 A person is playing a trumpet.
@@ -1970,7 +1801,6 @@ A person is riding a horse.
 A person is riding a jetski in the waves.
 A person is riding a mechanical bull.
 A person is riding a motorbike.
-A person is riding a motorbike in the event related to motocross.
 A person is riding a motorcycle.
 A person is riding an electric bicycle.
 A person is riding an old motorcycle.
@@ -2012,10 +1842,6 @@ A person is tearing sheets.
 A person is throwing a cat at the ceiling.
 A person is unfolding a tortilla.
 A person is walking in the snow at the edge of a mountain.
-A person is wearing a blue shirt and walking barefoot on a tennis court.
-A person is wearing a red jacket and carefully holding a beer.
-A person is wearing a red jacket and holding a beer.
-A person is wearing a straw hat and smoking a cigarette.
 A person is wearing grey pants on a snowboard.
 A person is wiping butter on a tray.
 A person is wrapping up an onion.
@@ -2028,22 +1854,12 @@ A person on a black motorbike is doing tricks with a jacket.
 A person on a yellow bike is airborne.
 A person on a yellow clean bike is taking a jump.
 A person on a yellow dirt bike is taking a jump.
-A person playing football is running past an official carrying a football.
-A person playing football is wearing black armbands.
-A person wearing grey pants is airborne on a snowboard.
-A person wearing jeans is sitting happily on the top of a horse saddle.
-A person wearing jeans is sitting on top of a horse saddle.
-A person who is practicing snowboarding falls from the air.
-A person who is practicing snowboarding jumps into the air.
-A person who plays soccer is kicking a ball into the goal.
-A person who rides bikes, in a black and red uniform, is standing on a dirt bike.
 A person with a backwards hat is sitting on the ground.
 A person with a green shirt is jumping high over the grass.
 A person with a green shirt is jumping onto the grass.
 A person with a red hooded jacket and a black backpack is moving near a rocky wall.
 A person with a red hooded jacket and a black backpack is not walking near a rocky wall.
 A person with a red hooded jacket and a black backpack is walking near a rocky wall.
-A person with pink climbing gear roped the rock.
 A person without shirt is jumping high over the green grass.
 A photographer is being surrounded by men.
 A pianist is playing the keyboard.
@@ -2077,7 +1893,6 @@ A potato is being sliced by a person.
 A potato is being sliced by a woman.
 A potato is being sliced by the man.
 A potato peel is falling over a woman.
-A practicing jumper is tossing a person's snowboard into the air.
 A prawn is being cut by a woman.
 A prey is quickly running behind the cheetah.
 A puppy is repeatedly rolling from side to side on its back.
@@ -2085,20 +1900,15 @@ A purple crowd of people is eating on various red lit restaurant tables.
 A rabbit is playing with a stuffed bunny.
 A rabbit is playing with a toy.
 A rabbit is playing with a toy rabbit.
-A racer in full gear wears a helmet with sponsor logos and is riding a blue sport motorcycle.
 A racer is leaning on a racing motorcycle.
 A racquet is being held by a tennis player in mid game.
 A rainbow afghan is being held by a girl in gold and purple.
 A red and brown dog is digging its nose inside the holiday gift bag.
-A red dog is excitedly jumping up and catching a tennis ball in its mouth.
 A red hurdle is being jumped by a large brown dog.
-A red sled is being held by a little girl in a green coat and a boy walking in the snow.
-A red sweatshirt with a smiling lady upon it is suited to be worn with light brown hair, earrings and a necklace .
 A rhino is grazing in a field.
 A ribbon is being twirled by a girl in pink.
 A rider is surfing the wave.
 A rider is waving at a surfer.
-A river is being crossed by a dog on a bridge made from a fallen tree.
 A rock is being climbed by the black dog.
 A rocky wall is climbed by a man in a purple hat with bare hands.
 A rollerblader is performing a trick on a ramp.
@@ -2112,7 +1922,6 @@ A sea turtle is hunting for food.
 A sea turtle is not hunting for fish.
 A seabird is flying over some rocks.
 A seabird is slowly flying over some rocks.
-A seated woman is singing a song and playing the guitar.
 A sheepdog is dispersing a herd of sheep.
 A sheepdog is grouping a herd of sheep.
 A shirtless man is jumping over a log.
@@ -2130,7 +1939,6 @@ A skateboarder is falling off a half pipe.
 A skateboarder is jumping in the air.
 A skateboarder is jumping off a ramp.
 A skateboarder is making a jump off a ramp.
-A skier dressed in black is catching a tiny bit of air.
 A skier in black is catching a tiny bit of air.
 A skier in white is catching a tiny bit of air.
 A skilled man is playing a guitar on stage.
@@ -2149,7 +1957,6 @@ A small boy is standing in the forest.
 A small brown and white dog is running on the sidewalk.
 A small brown and white spotted dog is lying on a jacket on the street.
 A small cat is lying on a bed.
-A small cat is opening a plastic drawer with its paws and jumping inside.
 A small child in a pink sweater is climbing a concrete staircase.
 A small child is lying outdoors in a grassy area.
 A small child is outdoors climbing steps in a grassy area.
@@ -2293,7 +2100,6 @@ A white bird is swiftly taking off from the water.
 A white bird with a yellow beak is standing in the green grass.
 A white car and a yellow car are racing down the track.
 A white car is being driven by the man.
-A white cat perched on a small wooden cabinet is looking outside the window.
 A white dog is approaching a golden dog on pebbly beach.
 A white dog is jumping from a dock into the water.
 A white dog is leaping from a cylindrical hay bale.
@@ -2311,7 +2117,6 @@ A white dog with beige spots is speeding through a field.
 A white hat is being worn by an Arabic man.
 A white horse is being ridden by a man in a blue cowboy hat.
 A white horse is standing.
-A white man is staging a hat and a playing guitar.
 A white man is walking a dog through brown water with difficulty.
 A white man is walking next to a building in a big city.
 A white puppy is biting a pole.
@@ -2327,7 +2132,6 @@ A woman and three men are denying a photo.
 A woman and three men are posing for a photo.
 A woman and three men are posing motionlessly for a photo.
 A woman by a brick wall is wearing a mask around her mouth and a hair net.
-A woman dressed in black is wearing inline skates and performing a trick on a rail.
 A woman in a bikini is pulling a cat on a leash at the beach.
 A woman in a bikini is pulling a dog on a leash at the beach.
 A woman in a bikini is pulling a dog on a leash at the seashore.
@@ -2340,7 +2144,6 @@ A woman in a pink shirt is surfing through yellow surfboards.
 A woman in a purple top is walking a bicycle between two stone columns.
 A woman in a red dress is playing an instrument.
 A woman in a red dress is putting away an instrument.
-A woman in a shirt dyed in black is sitting next to a fluorescent green bag.
 A woman in a white dress and a woman in a blue dress are standing beside a stage.
 A woman in a white dress and a woman in a blue dress are standing on a stage.
 A woman in a yellow dyed shirt is surfing on a pink surfboard.
@@ -2361,7 +2164,6 @@ A woman is adding spices to some meat.
 A woman is amalgamating eggs.
 A woman is applying cosmetics to her eyelid.
 A woman is arranging her hair.
-A woman is beating two eggs in a bowl and using a whisk made of wire.
 A woman is being caged for the dance.
 A woman is being carried by a man.
 A woman is being handed volleyballs by another woman.
@@ -2379,7 +2181,6 @@ A woman is brushing her hand.
 A woman is buttering a piece of bread.
 A woman is carefully applying cosmetics to her eyelid.
 A woman is carefully deboning a fish.
-A woman is carefully pouring a mixture into a bowl and mixing it.
 A woman is carefully removing her makeup.
 A woman is chopping a red onion.
 A woman is chopping an onion.
@@ -2494,7 +2295,6 @@ A woman is not slicing an onion.
 A woman is not slicing carrots.
 A woman is not slicing garlic.
 A woman is not talking on a telephone.
-A woman is opening a soda and drinking it.
 A woman is painting a man's face.
 A woman is parking a Seadoo.
 A woman is passionately playing a guitar in front of an audience.
@@ -2570,8 +2370,6 @@ A woman is riding a scooter towards the water.
 A woman is riding a water scooter.
 A woman is riding an animal.
 A woman is riding on an elephant.
-A woman is rock climbing, pausing and calculating the route.
-A woman is rocking over a blanket lying on someone reading a book.
 A woman is rowing a boat.
 A woman is running on the beach with a dog on a leash.
 A woman is scrubbing a zucchini with a brush for vegetables.
@@ -2588,7 +2386,6 @@ A woman is showing a puppy to an infant.
 A woman is showing a small cat to an infant.
 A woman is showing a small dog to an infant.
 A woman is singing into a microphone.
-A woman is sitting wearing swim gear.
 A woman is skiing down a hill and over a red obstacle.
 A woman is skillfully playing a flute.
 A woman is sleeping.
@@ -2657,17 +2454,11 @@ A woman is walking with a pair of dogs.
 A woman is washing a big pepper.
 A woman is washing her feet.
 A woman is watching the lake.
-A woman is wearing a blue shirt and walking barefoot on a tennis court.
 A woman is wearing a colorful shirt and a lot of jewelry.
 A woman is wearing an Egyptian hat on her head.
 A woman is wearing an Egyptian headdress.
 A woman is wearing an Indian headdress.
-A woman on a boulder is lying on a blanket and reading a book.
 A woman on a motorcycle is going around a corner.
-A woman on a rock is lying on a blanket and reading a book.
-A woman wearing a blue shirt and high heels is standing on the sidewalk next to a dog.
-A woman wearing a blue shirt and high heels is standing on the sidewalk next to a man.
-A woman wearing a blue shirt and high heels is standing on the sidewalk next to the man.
 A woman with a ponytail is climbing a wall of rock.
 A woman with a ponytail is climbing down a wall of rock.
 A woman with pigtails is climbing a rock wall.
@@ -2704,7 +2495,6 @@ A young boy is playing a wind instrument.
 A young boy is playing in the park with his mother.
 A young boy is quickly jumping off a chair.
 A young boy is riding a dirt bike through the mud.
-A young boy is sitting in a bathing suit and waiting for the next race.
 A young boy is using sign language.
 A young boy isn't climbing a wall made of rock.
 A young boy wearing a red swimsuit is jumping into a blue kiddies pool.
@@ -2720,8 +2510,6 @@ A young child is standing in front of some trees.
 A young child is walking with a bike on a rough dirt path.
 A young child is watering a plant with splashes.
 A young child is wearing a white coat and playing a game.
-A young child is wearing boots made of green rubber and playing in a puddle full of mud.
-A young child is wearing green boots and playing in a puddle full of mud.
 A young child with black hair is deleting a picture from the camera.
 A young child with black hair is taking a picture with a camera.
 A young child with hair of black color is taking a picture with a camera.
@@ -2732,13 +2520,10 @@ A young couple is lying on a couch together.
 A young couple is not lying in bed.
 A young couple is sleeping in bed.
 A young female is dancing.
-A young gamer is playing with a child wearing a white coat.
 A young girl in a bikini is jumping on the beach.
 A young girl in a bikini is sitting on the beach.
 A young girl in a blue leotard is jumping in the air.
 A young girl in a blue leotard is jumping on the ground.
-A young girl in a blue shirt is walking on the sidewalk and holding up a pink sign.
-A young girl in a coat made for winter is jumping off a boulder into the sand at a beach.
 A young girl in a leotard colored in blue is jumping in the air.
 A young girl in a winter coat is jumping off a boulder into the sand at a beach.
 A young girl in blue is jumping in the air.
@@ -2774,8 +2559,6 @@ A young man with brown hair and shades is sitting in front of some cans of soda.
 A young man with brown hair and sunglasses is sitting in front of some cans of soda.
 A young mother is playing with her boy in the park.
 A young person in a white shirt and gold and black hat is sitting with crossed legs.
-A young swimmer is sitting in a bathing suit and waiting for the next race.
-A young swimmer is standing in a bathing suit and waiting for the next race.
 A young white child is not standing on the edge of a body of water near some buckets.
 A young woman is carrying a lot of colorful scarves on the beach.
 A young woman is getting a tattoo on her hand.
@@ -2784,8 +2567,6 @@ A young woman is shaking hands with a man.
 A young woman with Indian clothing and henna on her hand is going through paperwork.
 A young, topless woman is covered in paint.
 ATVs are being driven by three people.
-Adults and children standing and playing in front of a stair near a wooded area.
-Adults and children standing and playing in front of steps near a wooded area.
 Along two streets, different breeds of dogs are being looked at.
 An American footballer is wearing the red and white strip.
 An Arabic man is wearing a white hat.
@@ -2868,7 +2649,6 @@ Animals are playing in fountains that spray water from the ground.
 Bikers are riding on a trail.
 Blue and black pants are being worn by the motocross rider.
 Boys are dancing in front of some people.
-Boys are dangling from straps and kicking at each other.
 Boys are not dancing in front of some people.
 Bread is being sliced by the man.
 Broccoli are being cut by a woman.
@@ -2877,10 +2657,8 @@ Butter is being chopped into a container by a man.
 Carrots are being grated by a woman.
 Carrots are being sliced by a woman.
 Cereal is being eaten by the man.
-Children are being dressed in costumes and playing a game.
 Children are playing in ground fountains.
 Children are playing outside with a soccer ball on the green grass.
-Children covered by leaves are playing with red shirts.
 Children in red shirts are playing in the leaves.
 Children in red shirts are sleeping in the leaves.
 Children in swimming suits are not playing in the water.
@@ -2898,7 +2676,6 @@ Dogs are racing on a track.
 Dogs are running on a track.
 Dough is being spread by a man.
 Drinking milk helps a cat's hunger.
-Drinks are being held by people pointing at the camera.
 Eggs are being boiled by a woman.
 Eggs are being cracked into a bowl by a woman.
 Eggs are being cracked into a bowl by the woman.
@@ -2954,8 +2731,6 @@ Hay is being eaten by a cow.
 Ingredients are being poured into a bowl by a woman.
 It is raining on a walking man.
 It is snowing on two playing dogs.
-Kids are being dressed in costumes and playing a game.
-Kids are not dressed in costumes and playing a game.
 Kids in red shirts are playing in the leaves.
 Little boys are playing in a water fountain in front of lots of people.
 Little kids are playing in a water fountain in front of few people.
@@ -2994,12 +2769,10 @@ No skateboarder is making a jump off a ramp.
 No snake is being fed a mouse by a man.
 No surfer is riding a big wave across dark green water.
 No young child is riding a three wheeled scooter down the sidewalk.
-Nobody in snowsuits is lying in the snow and making snow angels.
 Nobody is beating an egg.
 Nobody is brushing a cat.
 Nobody is cooking okra in a pan.
 Nobody is cutting a capsicum into pieces.
-Nobody is dangling from straps and kicking at each other.
 Nobody is drilling a hole in a strip of wood with a power drill.
 Nobody is feeding an animal.
 Nobody is fighting in a cow pasture.
@@ -3014,18 +2787,14 @@ Nobody is performing a card trick.
 Nobody is playing on a trampoline.
 Nobody is playing ping pong.
 Nobody is playing the guitar.
-Nobody is playing the guitar and singing.
 Nobody is playing with a toad.
 Nobody is pouring ingredients into a pot.
-Nobody is practicing water safety and wearing preservers.
 Nobody is riding a bike.
 Nobody is riding the bicycle on one wheel.
 Nobody is rinsing a steak with water.
 Nobody is sitting comfortably on the bench.
-Nobody is sitting in the chairs and watching the ocean.
 Nobody is slicing a piece of bread.
 Nobody is slicing a tomato.
-Nobody is standing in the ocean and watching the sunset.
 Nobody is stirring a pot of chili with a spoon.
 Nobody is stirring noodles in the water.
 Nobody is treading through the snow of the beautiful snowy landscape.
@@ -3044,7 +2813,6 @@ One fish is swimming .
 One girl is jumping on the car.
 One herd of deer is crossing the street.
 One little boy with brown hair is jumping off of the brown chair onto the floor.
-One man in a big city is holding up a sign and begging for money.
 One man is chatting with a girl with an internet camera.
 One man is chopping a log with an axe.
 One man is climbing a cliff with a rope.
@@ -3070,11 +2838,9 @@ One man is standing on the top of the rocks with clouds behind them.
 One man is talking to a girl with an internet camera.
 One man is turning off the microwave.
 One man is turning on the microwave.
-One man is wearing a black helmet and pushing a bicycle.
 One panda is climbing.
 One panda is eating a bamboo cane.
 One person is cutting an onion.
-One person is playing the guitar and singing.
 One person is riding a bicycle in the sand beside the ocean.
 One person is slicing a clove of garlic into pieces.
 One person is standing in a vast field of glacial ice.
@@ -3110,7 +2876,6 @@ Pedestrians and cars are moving through a traffic jam in the big city.
 People are clustered around a bonfire at morning.
 People are clustered around a bonfire at night.
 People are crossing a rope bridge over a rocky stream.
-People are dangling from straps and kicking at each other.
 People are grouping at a stand at the fair.
 People are looking at some costumes gathered in the vicinity of the forest.
 People are not playing cricket.
@@ -3154,7 +2919,6 @@ Several ferrets are climbing into the cage.
 Several ferrets are climbing out of the cage.
 Several jumpers are swimming in the water.
 Several kids are jumping on a trampoline.
-Several old people are posing for a photo and holding beers.
 Several people are crossing in line a bridge.
 Several people are gathered around a fire at night.
 Several people are in front of a colorful building.
@@ -3167,8 +2931,6 @@ Several people are walking in line across a bridge.
 Several swimmers are dashing into the water.
 Several swimmers are jumping into the water.
 Several swimmers are jumping out of the water.
-Several young people are posing for a photo and holding beers.
-Several young people are posing for a photo and holding drinks.
 Sign language is being used by a young girl.
 Skewers are being placed onto a rack by a woman.
 Small children are climbing a statue in a park.
@@ -3177,7 +2939,6 @@ Small kids are climbing a statue in a park.
 Soccer players are kicking a soccer ball into the goal.
 Some animals are playing wildly in the water.
 Some bamboo is being eaten by a panda bear.
-Some bells are ringing near a cook slicing peppers.
 Some bikers are doing acrobatics on a track near water and a skyline.
 Some bikers are getting airborne on a track near water and a skyline.
 Some bikers are not getting airborne on a track near water and a skyline.
@@ -3185,7 +2946,6 @@ Some boys are in front of dancing people.
 Some boys are jumping off a platform.
 Some boys are kneeling next to each other in front of a ball.
 Some boys are playing on a trampoline.
-Some boys being dressed with a carpet are sitting on two red tuxedos .
 Some cameras are being burned by a person with a blow torch.
 Some cats are playing with each other.
 Some cheerleaders are dancing.
