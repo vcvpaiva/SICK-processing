@@ -1,6 +1,4 @@
-A Seadoo is being ridden by a woman.
 An animal is grazing in a field.
-A baby and an adult are being followed by a rhino.
 A baby elephant is eating a small tree.
 A baby elephant is not eating a small tree.
 A baby is cheerfully playing with a dog.
@@ -29,11 +27,6 @@ A badger is shrewdly digging the earth.
 A bald man in a band is playing an instrument in the spotlight.
 A bald man in a band is playing guitar in the spotlight.
 A bald person is playing a guitar.
-A ball is being caught by a dog in mid air.
-A ball is being chased by a dog on the grass.
-A ball is being chased by a yellow dog.
-A banana is being eaten by a man.
-A banana is being peeled by a person.
 A band is not performing on a stage.
 A band is not playing some instruments.
 A band is performing on a stage.
@@ -41,11 +34,8 @@ A band is performing onstage.
 A band is playing on a stage.
 A band is playing onstage.
 A band is playing some instruments.
-A baseball is being held in its mouth by a black and white dog.
 A bee is clinging to a yellow flower.
 A bee is taking off from a yellow flower.
-A bicycle is being ridden by a man.
-A bicycle is being ridden by the little boy in a race.
 A bicyclist is holding a bike over his head in a group of people.
 A bicyclist is jumping on a pyramid-shaped ramp.
 A bicyclist is performing a trick over a clean wall.
@@ -63,12 +53,7 @@ A big fish is catching a man.
 A big green ball is knocking a potato.
 A big green ball is missing a potato.
 A big potato is knocking a green ball.
-A big wave is being ridden by a surfer across dark green water.
 A big white dog is running across a lawn.
-A bike is being held over his head by a bicyclist in a group of people.
-A bike is being ridden by a person.
-A bike is being ridden over a monkey.
-A bike is ridden on the road by a young boy in a helmet .
 A bike rider in a black and red uniform is jumping down off a dirt bike.
 A bike rider in a black and red uniform is standing on a dirt bike.
 A biker is jumping in the air, alone.
