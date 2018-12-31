@@ -133,17 +133,14 @@ A black dog with a red collar is putting its face in the water.
 A black girl with no bikini is wearing a hat at the beach.
 A black man in green is riding a bike.
 A black man is break dancing on the pavement.
-A black man is running in brown grass and racing a dog.
 A black man is skillfully break dancing on the pavement.
 A black man is walking next to a building in a big city.
 A black man is walking next to a shop in a big city.
 A black man is walking on the pavement.
 A black person in white is joyfully running with the dog on the grass.
-A black person is running along a white stand and a dog barks behind him.
 A black sheep is standing close to three white dogs.
 A black sheep is standing far from three white dogs.
 A black sheep is standing near three white dogs.
-A black, red, white and pink dress is being worn by a woman.
 A blond boy is sliding down a dune of sand on a skateboard.
 A blond boy is sliding down a sand dune on a skateboard.
 A blond boy is walking up a sand dune with a skateboard.
@@ -159,14 +156,9 @@ A blonde in green is sitting by a swinging boy.
 A blonde lady is looking at a tower.
 A blonde man is hanging by gymnastic ropes.
 A blonds girl is surfing.
-A blue ball is being caught by the dog.
 A boat is anchored.
 A boat is sailing peacefully over the water.
 A boat is sailing quietly over the water.
-A boat's sail is being reflected by the peaceful water.
-A bottle is being licked by the cat.
-A bowl of soup is being cleaned by a chef.
-A box is being cut by a man.
 A boy and a girl are naked.
 A boy and a girl are playing on the outdoor gym.
 A boy and a girl in swimsuits are wearing arm floats.
@@ -190,7 +182,6 @@ A boy in his teens is talking to a girl with a webcam.
 A boy in his teens is talking to a girl with an internet camera.
 A boy in his teens isn't talking to a girl with a webcam.
 A boy is attentively looking at a calendar.
-A boy is being knocked into the water by the dog.
 A boy is checking a calendar.
 A boy is cutting grass with scissors.
 A boy is eating a cupcake.
@@ -324,22 +315,14 @@ A brown dog is staring attentively at a brown and white dog.
 A brown duck with a green head is flapping its wings in the water.
 A brown puppy is biting a pole.
 A brown puppy is biting a stick.
-A bull dog is being brushed by the monkey.
 A bull dog is brushing the monkey.
 A bunch of boys are playing with a ball in front of a large door made of wood.
 A bunch of guys is on the shore.
 A bunch of people is on the shore.
 A bunny is playing with a stuffed bunny.
-A camera is being hammered onto the nail by the man.
-A camera is being held in front of the face of a child.
-A can is being bitten by a dog.
-A capsicum is being cut into pieces by a person.
 A car and a train are striking a toy.
 A car is being driven by a man.
 A car is riskily jumping over a girl.
-A cardboard box is being touched by a man in a black hat.
-A carrot is being sliced by a woman.
-A carrot is being sliced into pieces by a person.
 A cartoon airplane is landing.
 A cat is crawling under a piece of furniture.
 A cat is eagerly eating corn on the cob.
@@ -369,11 +352,9 @@ A cat is thrown at the ceiling by a person.
 A cat is walking away from some corn.
 A cat is walking on a hardwood floor.
 A cat is walking on the parquet.
-A cat song is being played on a piano.
 A cheetah is breathlessly chasing its prey across a field.
 A cheetah is chasing its prey across a field.
 A cheetah is quickly running behind its prey..
-A cheetah is shaken off by its prey across a field..
 A chef is cleaning a bowl of soup.
 A chef is cooking a meal.
 A chef is discarding some food.
@@ -410,7 +391,6 @@ A chimp is practicing martial arts.
 A chubby faced boy is not wearing sunglasses.
 A chubby faced boy is wearing dark glasses.
 A chubby faced boy is wearing sunglasses.
-A cigarette is being smoked by the man in the straw hat.
 A classroom full of students is looking attentively in the same direction inside a bamboo structure.
 A classroom full of students is looking in the same direction inside a bamboo structure.
 A classroom is empty.
@@ -421,13 +401,10 @@ A climbing boy rescues the fearful cat from over the wall.
 A clown is singing.
 A cluster of four brown dogs are playing in a field of brown grass.
 A cold cyclist is celebrating.
-A colored toy is being carried by a brown dog in the grass.
 A concentrated woman is playing flute.
-A container is being shaken over a sink in the kitchen by a man.
 A cook is coating a pork chop.
 A cook is rapidly slicing some bell peppers.
 A cook is slicing some bell peppers.
-A cord is being climbed by a man.
 A couple is looking at a map.
 A couple is looking at a street guide.
 A couple is lying on a bed together.
@@ -450,11 +427,9 @@ A cramped black train is on the bag of a girl.
 A crowd is posing for a large camera man in heavy clothing.
 A crowd of people is far from the water.
 A crowd of people is near the water.
-A cupcake is being eaten by a girl.
 A cute panda is lying down.
 A cute panda is not lying down.
 A cute puppy is repeatedly rolling from side to side on its back.
-A cyclist is being held over the heads of a group of people with the bike.
 A cyclist is biking in a snowy forest at day.
 A cyclist is biking in a snowy forest at night.
 A cyclist is biking in a snowy forest in the dark.
@@ -494,7 +469,6 @@ A dog is catching a ball.
 A dog is catching a ball in mid air.
 A dog is catching a black frisbee.
 A dog is catching a white frisbee.
-A dog is caught mid air with a ball.
 A dog is chasing a ball.
 A dog is chasing a ball in the grass.
 A dog is chasing a ball on the grass.
@@ -593,7 +567,6 @@ A dog is walking away from a baby.
 A dog is walking away from the tail of an animal in the grass.
 A dog of large size is running on the grass with a tennis ball in its mouth.
 A dog on a leash is walking in the water.
-A dog with a ball is being chased in the grass.
 A dog with a black coat is standing in shallow water.
 A dog with a blanket dyed in blue is running through the grass.
 A dog with a blue blanket is running through the grass.
@@ -614,8 +587,6 @@ A dog with long hair and a red vest is running in the grass.
 A dog with long hair and a red vest is sitting in the grass.
 A dog with really long hair and a red vest is running in the grass.
 A dog with very long hair is being showed by a woman at a dog show.
-A dog's tail is being pulled by a monkey.
-A door is being opened by a man.
 A drunk man is milking a cat.
 A drunk man is unwarily watering a cat.
 A duck with brown feathers and a green head is flapping its wings in the water.
@@ -651,30 +622,15 @@ A few people are singing.
 A few people are sitting on a bench under some palm trees.
 A few swimmers are racing in a lake.
 A few women are dancing.
-A fish is being cut by a man.
-A fish is being sliced by a man.
 A fish is hunting for a turtle in the sea.
 A fish is not swimming.
 A fish is swimming.
-A flute is being played by a girl.
-A flute is being played by a man.
-A flute is being played by the man.
-A flute is being played in a lovely way by a girl.
-A flute is being put away by a girl.
-A flute isn't being played by a man.
-A football game is being watched by the crowd.
-A football is being held by a man with no shirt.
 A football player in a purple jersey is breathlessly running with the ball for a touchdown.
 A football player in a purple jersey is running with the ball for a touchdown.
-A football player in a red and white uniform is being lifted by two teammates.
-A football player in a red and white uniform is being pulled down by two teammates.
 A football player is carrying an official past a rolling football.
 A football player is taking off black armbands.
 A football player is wearing black armbands.
-A frog is being handled by the woman.
-A frog is being held carelessly by a man.
 A funny crowd of people is doing a skit of two boxing men.
-A fur scarf is being held by an Asian woman.
 A furry brown dog is running through the grassy area.
 A girl dressed in purple and blue is slowly walking beside her bike at night.
 A girl dressed in purple and blue is walking beside her bike at night.
@@ -824,15 +780,6 @@ A group of students in uniforms is listening attentively at the front of the cla
 A group of women is playing with a ball on the beach.
 A guinea pig is devouring a carrot.
 A guinea pig is eating a carrot.
-A guitar is being passionately played by a man.
-A guitar is being played by a baby.
-A guitar is being played by a boy.
-A guitar is being played by a girl.
-A guitar is being played by a kid.
-A guitar is being played by a man.
-A guitar is being played by a man next to a drummer.
-A guitar is being played by a woman.
-A guitar is being played by the man.
 A guy is cheerfully playing with a footbag.
 A guy is cheerfully playing with the footbag.
 A guy is leaping into the air in a wooded area.
@@ -841,25 +788,15 @@ A guy is mowing the lawn.
 A guy is not riding a horse.
 A guy is riding a horse.
 A hamster is singing.
-A handstand is being performed by a man on the beach.
 A happy baby is laughing.
 A happy family is posing by the fireplace.
-A harp is being played by a man.
-A harp is being played with a hat by a man.
 A healthy looking dog is lying on the ground.
 A herd of deer is crossing the street.
 A herd of deer is stopping at the street.
 A hockey player in a yellow jersey is guarding the goal.
-A hole is being burrowed by the badger.
 A horse and its rider are leaping over a barrier.
 A horse and its rider are leaping quickly over a barrier.
 A horse and its rider are not leaping over a barrier.
-A horse is being ridden by a girl.
-A horse is being ridden by a guy.
-A horse is being ridden by a man.
-A horse is being ridden by a person.
-A horse is being ridden by a woman.
-A horse is being ridden in a creek by a man.
 A horse is falling on someone.
 A horse is not racing.
 A horse is racing.
@@ -871,8 +808,6 @@ A horse with no rider is falling over a hurdle.
 A jet is flying.
 A jet is not flying.
 A kangaroo is picking up the woman's baby.
-A keyboard is being played by a man.
-A keyboard is being played by a person.
 A kid in a white t-shirt is splashing in shallow water.
 A kid in orange is playing outside with a snowball.
 A kid is cutting grass with scissors.
@@ -911,13 +846,11 @@ A large crowd in warm clothing is walking away from a camera.
 A large dog is running on the grass with a tennis ball in its mouth.
 A large duck is flying over a rocky stream.
 A large duck is perching over a rocky stream.
-A large flute is being played by a man.
 A large green ball is hitting a potato.
 A large green ball is missing a potato.
 A large green colored ball is hitting a potato.
 A large group of Asian people is eating at a restaurant.
 A large group of cheerleaders is walking in a parade.
-A large jump is being performed by a man.
 A large man is sitting in a military accessories shop.
 A large man is sitting in a military accessories store.
 A large stream is full of rocks, ducks and flies.
@@ -930,15 +863,12 @@ A large white crane is flying near the water.
 A large white dog is jumping in the air over a snowy area.
 A large white dog is jumping up in the snow.
 A leap over white snow is greatly appealing to the snowboarders.
-A lemon is being squeezed by a woman.
-A lemur is being stroked by a woman.
 A lemur is biting a person's finger.
 A lemur is eating.
 A lemur is eating quickly.
 A lemur is hanging on a cord.
 A lemur is hanging on a rope.
 A lemur is licking a person's finger.
-A lick of milk sauce is being given to the cat.
 A light brown dog is running in the grass.
 A light brown dog is running in the water.
 A light brown dog is running up a street.
@@ -1056,8 +986,6 @@ A man in a red shirt is doing a trick with the skateboard.
 A man in a red uniform is making a jump in a dirt bike race.
 A man in a red uniform is swiftly making a jump in a dirt bike race.
 A man in a small city is doing charity work.
-A man in a suit is being surrounded by photographers.
-A man in a suit is not being surrounded by photographers.
 A man in a suit is standing at a microphone and singing.
 A man in a white hat is getting off stage.
 A man in a white hat is playing guitar on stage.
@@ -1074,13 +1002,6 @@ A man is applying a silencer to a gun.
 A man is arranging the garden.
 A man is athletically jumping a wall.
 A man is attentively taking pictures of a lake.
-A man is being curiously looked at by a woman.
-A man is being hit by a kid with a weapon.
-A man is being pushed toward the buttons of a microwave.
-A man is being roped before a climb.
-A man is being roped before climbing.
-A man is being roped by a climber.
-A man is being stopped on a rope bridge.
 A man is boiling noodles in water.
 A man is breaking a block of concrete with a sledge hammer.
 A man is breaking a slab of concrete with a sledge hammer.
