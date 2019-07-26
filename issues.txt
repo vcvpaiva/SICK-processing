@@ -1,0 +1,7 @@
+copula issue: Pang says solved in new pythin parse "The woman is frying fish"
+Named Entities? example of John and Mary (example on page)
+compounds? air_conditioner, tv_channel, washing_machine http://wnpt.sl.res.ibm.com/wn/synset?id=04554684-n
+conditionals question?
+Jigsaw five meanings
+ellipsis plan?
+verbal phrases? turn up? up as a verb?
