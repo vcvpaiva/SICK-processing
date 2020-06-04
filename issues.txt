@@ -1,7 +1,10 @@
-copula issue: Pang says solved in new python parse "The woman is frying fish" (but not really!)
-Named Entities? example of John and Mary (example on page)
-compounds? air_conditioner, tv_channel, washing_machine http://wnpt.sl.res.ibm.com/wn/synset?id=04554684-n
-conditionals question?
-Jigsaw five meanings
-ellipsis plan?
-verbal phrases? turn up? up as a verb?
+1. copula issue: Pang says solved in new python parse "The woman is frying fish" (but not really!)
+SICK sentences in this case in fake-copula file 120, 2% of total sentences
+2. Named Entities: ATV, Seadoo, example of John and Mary (example on page)
+3. compounds:  air_conditioner, tv_channel, washing_machine http://wnpt.sl.res.ibm.com/wn/synset?id=04554684-n
+4. conditionals: question?
+5. WSD: Jigsaw five meanings
+6. ellipsis plan?
+7. temporal plan: ask Cleo?
+8. verbal phrases? turn up? up as a verb? light verbs (read Miriam)
+9. prepositions: "in front of", etc
